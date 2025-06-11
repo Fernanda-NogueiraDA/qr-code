@@ -1,6 +1,4 @@
-# 🚀 QR Code Component | Frontend Mentor Challenge
-
-![Preview](./images/screenshot.jpg)
+# QR Code Component | Frontend Mentor Challenge
 
 🔗 **Live Demo:** [Acesse aqui](https://fernanda-nogueirada.github.io/qr-code/)  
 🎯 **Desafio:** [QR Code Component no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
@@ -10,9 +8,9 @@
 Solução para o desafio de construir um componente QR Code responsivo que segue exatamente o design proposto. Projeto ideal para praticar fundamentos de HTML e CSS.
 
 ### 📸 Screenshot
-![Desktop Solution](./screenshot.jpg) *(Captura da versão desktop)*
+![screenshot jpg](https://github.com/user-attachments/assets/be0fdedb-a74d-400d-b086-9f5104c1d4ec)
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **HTML5** semântico
 - **CSS3** com variáveis
 - **Flexbox** para centralização perfeita
